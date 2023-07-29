@@ -1,0 +1,15 @@
+.main-comp{
+    display: flex;
+    width: auto;
+    /* height: 100%; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10rem;
+
+    padding-right: 10rem;
+
+}
+.pands{
+    display: flex;
+}
